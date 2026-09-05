@@ -19,4 +19,4 @@ DecodeLabs Data Analytics Internship — Project 2
 ## Contents
 - My_Project_2_Data_Analytics_DecodeLab.xlsx — full analysis workbook (Basic Stats, Outlier, Correlation, Summary Table, Key Observation tabs)
 
-Dataset: Same cleaned dataset from [Week1_DataCleaning/Cleaned_Dataset.xlsx](../Week1_DataCleaning/Cleaned_Dataset.xlsx)
+Dataset: Same cleaned dataset from [Week1_DataCleaning/Week1_DataCleaning/My Cleaned Dataset for Week1.xlsx
